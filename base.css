@@ -1,0 +1,17 @@
+:root {
+    --white-color: #fff;
+    --border-color: #e5e5e5;
+    --text-color: #757575;
+    --link-color: #333;
+    --primary-color: #9f224e;
+}
+
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: var(--text-color);
+    font-size: 14px;
+}
+* a {
+    text-decoration: none;
+}
